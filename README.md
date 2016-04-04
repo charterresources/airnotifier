@@ -2,6 +2,7 @@
 AirNotifier is an application server for apple push notification service, users and resources management, it's a strong and generic backend for iOS apps.
 
 APNs requires a certification to set up SSL connection, we needs multi server instances without sharing certification file with all peers under certain circumstances, AirNotifier works as a push notification forwarder, each peer sends notification requests to it, it setup the SSL connection and forward notification to application notification server.
+git test
 
 ## Installation
 
